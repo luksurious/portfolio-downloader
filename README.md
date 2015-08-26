@@ -5,7 +5,7 @@
 ### Prerequisites: ###
 * Windows for batch files
 * Ruby (tested with 2.1): get at http://rubyinstaller.org
-* * Note that Ruby 2.2.1 is not compatible with the required gems right now
+ * Note that Ruby 2.2.1 is not compatible with the required gems right now
 
 ### Install ###
 Run the `setup.bat`.
